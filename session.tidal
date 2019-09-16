@@ -1,5 +1,3 @@
-d1 $ sound "bd*2 sn*3"
-
-d2 $ "cp future cp"
+d1 $ sound "bd*4"
 
 hush
